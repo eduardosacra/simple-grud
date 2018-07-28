@@ -13,10 +13,10 @@ Next step you go access the container php-fpm and install a depedencies with the
  Done. Now you can usin um web browser of your preference, and access the endpoint `localchost:8000/'
 
 ### available routes
-`/product/listing`
-`/produtc/create`
+* GET `/product/listing`
+* GET `/produtc/create`
 
 #### Todo Routes
-`/product/update/{id}`
-`/product/delete/{id}`
-`/product/info/{id}}`
+* GET `/product/update/{id}`
+* GET `/product/delete/{id}`
+* GET `/product/info/{id}}`
