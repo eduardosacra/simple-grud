@@ -16,7 +16,7 @@ Next step you go access the container php-fpm and install a depedencies with the
 * GET `/product/listing`
 * GET `/produtc/create`
 
-#### Todo Routes
+#### To do list
 * GET `/product/update/{id}`
 * GET `/product/delete/{id}`
 * GET `/product/info/{id}}`
